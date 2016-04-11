@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<updateserver>
+	<latestversion>100</latestversion>
+	<downloadurl>http://zppy-repo.mach-hosting.com/repo/shoutcast_client.zpp</downloadurl>
+	<desc>Manage SHOUTcast servers with Sentora.</desc>
+	<updatedesc>Converted to Sentora.</updatedesc>
+	<authorname>Mathieu Légaré</authorname>
+	<authoremail>levelkro@yahoo.ca</authoremail>
+	<authorurl>http://www.sentora.org</authorurl>
+	<ostype>all</ostype>
+</updateserver>
